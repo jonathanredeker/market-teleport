@@ -10,7 +10,7 @@ This is a custom plugin for my server's marketplace. I set the location to a pro
 - <code>/marketlocation</code> or <code>/mktlocation</code> – Set the location to be teleported to and from.
 
 ## Permissions
-- <code>market.*</code> – Allows usage of all commands
+- <code>market.*</code> – Allows usage of all commands.
 - <code>market.access (default)</code> – Allows the user teleport to or from the set location.
 - <code>market.location</code> - Allows the user to set the location to be teleported to and from.
 - <code>market.delay</code> - Allows the user to set the teleport delay.

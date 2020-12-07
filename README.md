@@ -1,4 +1,4 @@
-# Minecraft Market Teleport
+# Market Teleport
 
 Allows a player to teleport to specific set location. The player can then teleport back to their original location prior to teleportation.
 
